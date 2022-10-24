@@ -1,6 +1,6 @@
 # getxapp
 
-A new Flutter project.
+Flutter Getx State Management.
 
 ## Getting Started
 
